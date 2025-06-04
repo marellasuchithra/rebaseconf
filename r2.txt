@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bapatla
+=======
+suchithra
+>>>>>>> 6ce6c6b (commited)
